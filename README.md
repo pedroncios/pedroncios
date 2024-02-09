@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pedroncios
-- 🌱 I’m currently learning Python, Vue.js and how Github works
+- 🌱 I’m a Java and Angular developer, currently learning Python and Vue.js. Also I’m improving my HTML/CSS skills.
 - 📫 You can reach me sending a direct message on my LinkedIn profile: https://www.linkedin.com/in/pedro-yamada-bondal-b0050122/
 
 <!---
