@@ -5,8 +5,7 @@ I’m a `Java` and `Angular` developer, currently learning:
 - `Next.js`
 - `React`
 - `Vue.js`
-
-Also I’m improving my `HTML/CSS` skills.
+- `Tailwind CSS`
 
 📫 You can reach me sending a direct message on my profiles:
 <div  align='center'>
