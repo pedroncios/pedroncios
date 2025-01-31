@@ -1,11 +1,14 @@
 👋 Hi, I’m Pedro
 
-I’m a `Java` and `Angular` developer, currently learning:
-- `Node.js`
-- `Next.js`
-- `React`
-- `Vue.js`
-- `Tailwind CSS`
+I’m a Full-stack developer proficient in:
+
+`Java` `Node.js` `Next.js`
+
+`Angular` `Vue.js` `React` 
+
+`Vuetify` `Tailwind CSS` 
+
+`Cypress` `Jest`
 
 📫 You can reach me sending a direct message on my profiles:
 <div  align='center'>
